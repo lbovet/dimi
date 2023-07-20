@@ -3,8 +3,8 @@
 
 #define driver PIN4
 #define led PIN3
-#define BOOT_TIME 5000 * 2
-#define SELECT_TIME 3000 * 2
+#define BOOT_TIME 6000 * 2
+#define SELECT_TIME 5000 * 2
 #define STATE 0
 #define MODE 1
 #define WRITE
